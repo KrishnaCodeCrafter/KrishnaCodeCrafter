@@ -4,15 +4,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnacodecrafter&label=Profile%20views&color=0e75b6&style=flat" alt="krishnacodecrafter" /> </p>
 
 - 📫 How to reach me **krishna9078agrawal@gmail.com**
+- <img align="center" src="https://github.com/user-attachments/assets/36d26d1a-4abb-41e7-ab38-2b5ee6fd805c" alt="MyPortfolio" height="30" width="40" />Portfolio Website: <a href="https://krishnacodecrafter.github.io/MyPortfolio/" target="_blank" >KrishnaCodeCrafter</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/krishna-agrawal-0294b4296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna agrawal" height="30" width="40" /></a>
-<a href="https://instagram.com/krishna3176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishna3176" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/Krishna9078agra1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="krishna agrawal" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/kingagrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kingagrawal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kingagrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kingagrawal" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/krishna9075wkq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="krishna9075wkq" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/krishna-agrawal-0294b4296" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna agrawal" height="30" width="40" /></a>
+<a href="https://instagram.com/krishna3176" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishna3176" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/Krishna9078agra1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="krishna agrawal" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/kingagrawal" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kingagrawal" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kingagrawal" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kingagrawal" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/krishna9075wkq" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="krishna9075wkq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
